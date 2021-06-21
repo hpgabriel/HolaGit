@@ -4,8 +4,9 @@
 	<title>hola mundo </title>
 </head>
 <body>
+<font size="14" name="Tempus Sans ITC" color="Blue">
 
-<marque> hola mundo </marque>
+<marquee> hola mundo de ticcitos </marquee>
 </body>
 
 
